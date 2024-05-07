@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Slinker
+- 👀 I’m interested in Piano,Web Development, and learning
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on anything really
